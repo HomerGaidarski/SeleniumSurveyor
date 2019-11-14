@@ -1,0 +1,10 @@
+canes-survey:
+  input:
+    survey-code: 1111-2222-3333-4444
+    name: John Doe
+    address: 1234 Address Drive
+    city: City
+    state: State
+    zipcode: 12345
+    email: email@email.com
+    phone-number: 1113330000

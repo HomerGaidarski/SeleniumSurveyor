@@ -1,0 +1,10 @@
+canes-survey:
+  input:
+    survey-code: asdf
+    name: asdf
+    address: asdf
+    city: asdf
+    state: asdf
+    zipcode: asdf
+    email: asdf
+    phone-number: asdf
