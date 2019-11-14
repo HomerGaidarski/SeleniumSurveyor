@@ -1,9 +1,3 @@
-# chromedriver
-chromedriver*
-
-# secrets/inputs
-application-test.yml
-
 HELP.md
 .gradle
 build/
@@ -36,3 +30,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# chromedriver
+chromedriver*
+
+# secrets/inputs
+application-test.yml
